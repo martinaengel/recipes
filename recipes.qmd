@@ -1,0 +1,12 @@
+---
+title: "Mary's Favorite Recipes"
+fromat: html
+editor: visual
+---
+
+{r}
+
+Welcome to my culinary treasure trove! Within this recipes folder lies a tantalizing array of dishes waiting to ignite your passion for cooking and delight your taste buds. From comforting classics to innovative creations, each recipe is a journey into flavor, crafted with love and care. Whether you're a seasoned chef or a kitchen novice, embark on a culinary adventure with us as we explore the art of cooking together. Let these recipes inspire you to create memorable meals and moments shared with loved ones around the table.
+
+Love,\
+Mary
