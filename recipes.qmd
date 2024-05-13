@@ -3,42 +3,51 @@ title: "Mary's Favorite Recipes"
 fromat: html
 editor: visual
 ---
+
 # Welcome!
 
 ... to my culinary treasure trove! Within this recipes folder lies a tantalizing array of dishes waiting to ignite your passion for cooking and delight your taste buds. From comforting classics to innovative creations, each recipe is a journey into flavor, crafted with love and care. Whether you're a seasoned chef or a kitchen novice, embark on a culinary adventure with us as we explore the art of cooking together. Let these recipes inspire you to create memorable meals and moments shared with loved ones around the table.
 
 Here I am showing you *healthy and mainly vegan* recipes to keep you satisfied and energized. Have fun exploring!
 
-Love,
-Mary
+Love, Mary
 
+## This is what visitors said
+
+> "This recipes website is a culinary goldmine! Every dish I've made has turned out phenomenally delicious. It's my go-to resource for meal inspiration and kitchen adventures." (Cam, 22 y/o, UK)
+
+> "I've been a loyal follower of this recipes website for years, and it never disappoints. The recipes are not only mouthwatering but also incredibly easy to follow, even for someone like me who's not a natural in the kitchen." (Holly, 41 y/o, USA)
+
+> "I stumbled upon this recipes website recently, and I'm already hooked! As someone transitioning to a plant-based diet, I appreciate the wide variety of vegan recipes available here. Each one is a flavor explosion that proves vegan food can be both nutritious and indulgent." (Elizabeth, 16 y/o, Germany)
 
 # Baking
+
 ## Vegan Brownie
 
-*Ingridients
-  + 1 cup all-purpose flour
-  + 1 cup coconut sugar or granulated sugar
-  + 1/2 cup cocoa powder
-  + 1/2 teaspoon baking powder
-  + 1/2 teaspoon salt
-  + 1/2 cup unsweetened applesauce
-  + 1/4 cup melted coconut oil or vegetable oil
-  + 1 teaspoon vanilla extract
-  + 1/4 cup dairy-free milk (such as almond, soy, or oat milk)
-  + 1/2 cup dairy-free chocolate chips (optional)
+*Ingridients* 
++ 1 cup all-purpose flour 
++ 1 cup coconut sugar or granulated sugar 
++ 1/2 cup cocoa powder 
++ 1/2 teaspoon baking powder 
++ 1/2 teaspoon salt 
++ 1/2 cup unsweetened applesauce 
++ 1/4 cup melted coconut oil or vegetable oil 
++ 1 teaspoon vanilla extract 
++ 1/4 cup dairy-free milk (such as almond, soy, or oat milk) 
++ 1/2 cup dairy-free chocolate chips (optional)
 
-*Instructions
-1. In a large mixing bowl, whisk together the flour, coconut sugar, cocoa powder, baking powder, and salt until well combined.
-2. In a separate bowl, combine the applesauce, melted coconut oil, vanilla extract, and dairy-free milk. Mix until smooth.
-3. Pour the wet ingredients into the dry ingredients and stir until just combined. Be careful not to overmix.
-4. If using chocolate chips, fold them into the brownie batter.
-5. Pour the batter into the prepared baking pan and spread it out evenly.
-6. Bake in the preheated oven for 25-30 minutes, or until a toothpick inserted into the center comes out mostly clean with a few moist crumbs attached.
-7. Remove the brownies from the oven and allow them to cool in the pan for 10-15 minutes before slicing and serving.
-8. Enjoy your delicious vegan brownies! Optional: Serve with a scoop of dairy-free ice cream or a sprinkle of powdered sugar for an extra treat.
+*Instructions* 
+1. In a large mixing bowl, whisk together the flour, coconut sugar, cocoa powder, baking powder, and salt until well combined. 
+1. In a separate bowl, combine the applesauce, melted coconut oil, vanilla extract, and dairy-free milk. Mix until smooth. 
+1. Pour the wet ingredients into the dry ingredients and stir until just combined. Be careful not to overmix. 
+1. If using chocolate chips, fold them into the brownie batter. 
+1. Pour the batter into the prepared baking pan and spread it out evenly. 
+1. Bake in the preheated oven for 25-30 minutes, or until a toothpick inserted into the center comes out mostly clean with a few moist crumbs attached. 
+1. Remove the brownies from the oven and allow them to cool in the pan for 10-15 minutes before slicing and serving. 
+1. Enjoy your delicious vegan brownies! Optional: Serve with a scoop of dairy-free ice cream or a sprinkle of powdered sugar for an extra treat.
 
-Have fun and enjo!
+Have fun and enjoy!
+
 
 # Drinks
 
