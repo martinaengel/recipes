@@ -1,8 +1,17 @@
 ---
+title: Welcome
+author: Mary
+theme: minty
+format: pdf
+date: today
+--- 
+---
 title: "Mary's Favorite Recipes"
 fromat: html
 editor: visual
 ---
+
+install.packages(tinytex)
 
 # Welcome!
 
